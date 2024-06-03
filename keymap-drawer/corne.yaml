@@ -38,12 +38,12 @@ layers:
   - /
   - ''
   - ''
-  - {t: TAB, h: nav}
+  - {t: TAB, h: nums_shortcuts}
   - {t: ENTER, h: extended}
   - {t: SPACE, h: Sft+AGr+Ctl+Gui+ RALT}
-  - {t: ESCAPE, h: symbols}
+  - {t: ESCAPE, h: symbols_nav}
   - ''
-  symbols:
+  symbols_nav:
   - ''
   - '!'
   - '@'
@@ -55,7 +55,7 @@ layers:
   - '-'
   - _
   - '*'
-  - {t: ▽, type: trans}
+  - ''
   - ''
   - '!'
   - $
@@ -67,7 +67,7 @@ layers:
   - UP ARROW
   - RIGHT ARROW
   - BACKSPACE
-  - {t: ▽, type: trans}
+  - ''
   - ''
   - '%'
   - ^
@@ -79,14 +79,14 @@ layers:
   - ''''
   - '"'
   - ''
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - LALT
+  - ''
+  - ''
   - {type: held}
-  - {t: ▽, type: trans}
-  nav:
+  - ''
+  nums_shortcuts:
   - ''
   - {t: ▽, type: trans}
   - ''
@@ -130,19 +130,19 @@ layers:
   - ''
   - ''
   extended:
-  - {t: ▽, type: trans}
-  - F1
-  - F2
-  - F3
-  - F4
-  - F5
-  - F6
+  - ''
+  - PLAY PAUSE
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - F7
   - F8
   - F9
   - ''
   - ''
-  - PP
+  - ''
   - PREV
   - NEXT
   - MUTE
@@ -154,7 +154,7 @@ layers:
   - F6
   - ''
   - ''
-  - {t: ▽, type: trans}
+  - ''
   - {t: BT, h: '0'}
   - {t: BT, h: '1'}
   - {t: BT, h: '2'}
@@ -164,11 +164,11 @@ layers:
   - F1
   - F2
   - F3
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
+  - ''
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ''
+  - ''
+  - ''
