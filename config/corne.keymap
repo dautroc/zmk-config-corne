@@ -14,6 +14,8 @@
 &mt {
     tapping-term-ms = <150>;
     bindings = <&kp>, <&kp>;
+
+    flavor = "tap-preferred";
 };
 
 / {
