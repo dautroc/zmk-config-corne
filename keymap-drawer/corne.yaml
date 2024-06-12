@@ -134,7 +134,7 @@ layers:
   - PLAY PAUSE
   - BT CLR ALL
   - ''
-  - ''
+  - '&bootloader'
   - ''
   - ''
   - F7
