@@ -11,7 +11,10 @@
 
 #define TAPPING_TERM 200
 
-&mt { flavor = "tap-preferred"; };
+&mt {
+    tapping-term-ms = <150>;
+    bindings = <&kp>, <&kp>;
+};
 
 / {
     behaviors {
