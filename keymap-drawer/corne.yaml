@@ -109,7 +109,7 @@ layers:
   - '4'
   - '5'
   - '6'
-  - ''
+  - BACKSPACE
   - ''
   - {t: ▽, type: trans}
   - Gui+Alt+ Z
@@ -132,7 +132,7 @@ layers:
   extended:
   - ''
   - PLAY PAUSE
-  - ''
+  - BT CLR ALL
   - ''
   - ''
   - ''
