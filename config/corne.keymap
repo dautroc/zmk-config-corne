@@ -16,7 +16,6 @@
     bindings = <&kp>, <&kp>;
 
     flavor = "tap-preferred";
-    quick-tap-ms = <120>;
 };
 
 / {
